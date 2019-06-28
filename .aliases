@@ -1,0 +1,12 @@
+alias v=vim
+alias g=gvim
+alias l='ls -ltr'
+alias c=clear
+alias p=pwd
+alias h=history
+alias rf='readlink -f'
+alias ga='git add'
+alias gs='git status'
+alias log='git log -p'
+alias amend='git commit --amend'
+alias refresh='git checkout master;git pull'
