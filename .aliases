@@ -6,6 +6,7 @@ alias p=pwd
 alias h=history
 alias rf='readlink -f'
 alias ga='git add'
+alias gb='git branch'
 alias gs='git status'
 alias log='git log -p'
 alias amend='git commit --amend'
